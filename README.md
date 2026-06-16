@@ -5,7 +5,7 @@ This project focuses on detecting outliers and Non-Outliers in thyroid patient d
 The madel analyzes patient thyroid information like age , sex and else thyroid-releted information ,if any wrong activity then prefer to go medical or Hospital.
 
 ## Dataset
-The dataset of thyroid patient records which is use in the Outlier Detection:
+The dataset of thyroid patient records for Outlier Detection:
 - Age
 - Sex
 - on_thyroxine
@@ -27,7 +27,7 @@ The dataset of thyroid patient records which is use in the Outlier Detection:
 - TT4_measured
 - T4U_measured
 - FTI_measured
-- 
+
 These are records we choose as Features -Age, Sex, TSH, T3_measured, TT4_measured, T4U_measured, FIT_measured.
 
 ### Target Variable
